@@ -1,6 +1,4 @@
-#include <stdio.h>
-
-#include "main.h"
+#include "shell.h"
 
 /**
  *print_alphabet - Program prints the alphabet in lower case

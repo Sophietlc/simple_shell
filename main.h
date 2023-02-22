@@ -14,7 +14,7 @@
 #include <signal.h>
 #define PROMPT "Olaf $ "
 
-
+void print_alphabet(void);
 /**
  * struct builtin_d - Defines the builtins functions.
  * @built: The name of the build in command.
